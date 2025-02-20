@@ -38,6 +38,10 @@ update_name>model_name_b.ytd # Texture file, second variation (_b)
 - If multiple textures in folder, each would get it's own variation file
 - Folder name is default texture name, but can be changed pre-packing
 
+### Property management
+
+- Ability to select the properties to be applied to all files (or use automatic setting)
+
 ### File name scanning
 
 - Have preset names which automatically translate into model names
