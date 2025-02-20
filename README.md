@@ -63,6 +63,12 @@ Output .ytd: update_name>model_name_a.ytd # Matching model can be set by user
 - Both require the model and associated texture
 - Tool would spit out a .zip with the correct setup for both SP and MP ready for release
 
+### Female model compatibility
+
+- Male and female models are handled differently 
+- Most models have the same texture as female models, but not all
+- Add ability to specify for female variations and output those aswell
+
 ## Commercial viability
 
 This tool would make releasing assets much quicker for designers. On average, a premade clothing pack costs ~$20 and a custom commissioned one can range from $30-$60+. We would be targetting designers who want to rapidly speed up their workflow, and could in the future offer even more tools on top of this.
